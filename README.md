@@ -1,0 +1,7 @@
+- 👋 Olá, sou @D3vG4m3
+- 👀 Estou interessado em aprender a desenvolver jogos na Unity com c# e Visual Studio Code
+- 🌱 Atualmente estou aprendendo a criar jogos 3d na Unity com linguagem c#
+- 💞️ Procuro colaborar em desenvolvimentos de jogos com conhecimento junior/iniciante
+- 📫 Como entrar em contato comigo; 55+ 71 9 87799912
+- 😄 Pronomes: Ele/Dele, O garoto...  
+- ⚡ Curiosidade: Estou iniciando na Área de progamação, a unity possue problemas dificeis de resolver, tenho grandes ideas de jogos, mas gostaria de um grupo de amigos, uma equipe, para nos ajudarmos nesta jornada de Dev.Games.
